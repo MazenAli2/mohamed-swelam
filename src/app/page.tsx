@@ -1,5 +1,6 @@
 import Navbar from "@/components/layout/Navbar";
 import Hero from "@/components/sections/Hero";
+import Philosophy from "@/components/sections/Philosophy";
 import Expertise from "@/components/sections/Expertise";
 import Partners from "@/components/sections/Partners";
 import CaseStudies from "@/components/sections/CaseStudies";
@@ -13,6 +14,7 @@ export default function Home() {
         <main className="min-h-screen bg-background text-white">
             <Navbar />
             <Hero />
+            <Philosophy />
             <Expertise />
             <Partners />
             <CaseStudies />

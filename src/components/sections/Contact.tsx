@@ -158,7 +158,7 @@ export default function Contact() {
 
             {/* Footer */}
             <footer className="mt-20 pt-12 border-t border-white/5 text-center text-white/30 text-sm">
-                <p>© 2024 جميع الحقوق محفوظة لـ محمد سويلم. صُنع بكل فخر لدفع حدود النمو.</p>
+                <p>© 2025 جميع الحقوق محفوظة لـ محمد سويلم. صُنع بكل فخر لدفع حدود النمو.</p>
             </footer>
         </section>
     );

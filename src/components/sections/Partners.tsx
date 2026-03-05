@@ -9,6 +9,8 @@ const partners = [
     { name: "Pro Gear Egypt", country: "مصر", category: "معدات دراجات" },
     { name: "دكتور راشيل", country: "الأردن/فلسطين", category: "منتجات تجميل" },
     { name: "بودكاست الملتقى", country: "السعودية", category: "صناعة محتوى" },
+    { name: "Luban AlGhazal", country: "مصر", category: "صناعة اللبان" },
+    { name: "CrowTutor", country: "أونلاين", category: "تعليم وتوجيه" },
 ];
 
 export default function Partners() {
